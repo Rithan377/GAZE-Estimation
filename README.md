@@ -83,6 +83,8 @@ cd GAZE-Estimation
 pip install -r requirements.txt
 
 ```
+OUTPUT 
+
 <img width="1881" height="1267" alt="image" src="https://github.com/user-attachments/assets/e39eee5b-ae8d-4e22-9d2b-da2967536b8c" />
 
 
