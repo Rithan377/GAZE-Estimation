@@ -37,6 +37,7 @@ The output video includes:
 ---
 
 # System Architecture
+```
 
 Video Input
 ↓
@@ -53,6 +54,8 @@ Heatmap Prediction
 Gaze Vector Visualization
 ↓
 Processed Video Output
+
+```
 
 
 ---
