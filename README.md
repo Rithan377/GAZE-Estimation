@@ -13,9 +13,9 @@ The system processes a video frame-by-frame, detects faces, predicts gaze direct
 ![RetinaFace](https://img.shields.io/badge/RetinaFace-FaceDetection-purple)
 ![Gazelle](https://img.shields.io/badge/Gazelle-GazeEstimation-orange)
 ![DINOv2](https://img.shields.io/badge/DINOv2-VisionTransformer-yellow)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-VideoProcessing-black?logo=ffmpeg&logoColor=white
+![FFmpeg](https://img.shields.io/badge/FFmpeg-VideoProcessing-black?logo=ffmpeg&logoColor=white)
 
----
+
 
 # WORKFLOW
 
