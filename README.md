@@ -5,6 +5,15 @@ This project implements a **video-based gaze estimation pipeline** using the **G
 The system processes a video frame-by-frame, detects faces, predicts gaze direction using a deep learning model, and overlays gaze vectors onto the video.
 
 ---
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red?logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green?logo=opencv&logoColor=white)
+![RetinaFace](https://img.shields.io/badge/RetinaFace-FaceDetection-purple)
+![Gazelle](https://img.shields.io/badge/Gazelle-GazeEstimation-orange)
+![DINOv2](https://img.shields.io/badge/DINOv2-VisionTransformer-yellow)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-VideoProcessing-black?logo=ffmpeg&logoColor=white)
 
 WORKFLOW
 
