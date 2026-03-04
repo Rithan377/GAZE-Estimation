@@ -83,8 +83,17 @@ cd GAZE-Estimation
 pip install -r requirements.txt
 
 ```
-OUTPUT 
+#OUTPUT 
 
 <img width="1881" height="1267" alt="image" src="https://github.com/user-attachments/assets/e39eee5b-ae8d-4e22-9d2b-da2967536b8c" />
+
+# Author
+
+**Rithan377**
+
+GitHub:  
+https://github.com/Rithan377
+
+Developed as part of a computer vision exploration project using gaze estimation models.
 
 
