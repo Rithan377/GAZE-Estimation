@@ -6,6 +6,11 @@ The system processes a video frame-by-frame, detects faces, predicts gaze direct
 
 ---
 
+WORKFLOW
+
+<img width="465" height="979" alt="image" src="https://github.com/user-attachments/assets/a6fcfb75-c842-47df-8c63-63ade0d1facd" />
+
+
 # Project Overview
 
 The pipeline performs the following steps:
@@ -76,11 +81,5 @@ pip install -r requirements.txt
 
 ```
 <img width="1881" height="1267" alt="image" src="https://github.com/user-attachments/assets/e39eee5b-ae8d-4e22-9d2b-da2967536b8c" />
-
-
-WORKFLOW
-
-
-<img width="465" height="979" alt="image" src="https://github.com/user-attachments/assets/a6fcfb75-c842-47df-8c63-63ade0d1facd" />
 
 
